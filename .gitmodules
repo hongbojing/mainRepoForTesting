@@ -1,6 +1,7 @@
 [submodule "subRepo1"]
 	path = subRepo1
 	url = git@github.com:hongbojing/subRepo1.git
+	branch = stable
 [submodule "subRepo2"]
 	path = subRepo2
 	url = git@github.com:hongbojing/subRepo2.git
